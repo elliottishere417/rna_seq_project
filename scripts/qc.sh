@@ -5,4 +5,5 @@ fastq \
 -I sample_R2.fastq.gz \
 -o sample_R1.fastq.gz \
 -O sample_R2.fastq.gz 
---length_required 30
+--length_required 30 \
+0
